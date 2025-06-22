@@ -9,3 +9,7 @@
 - It is only use for simple pdf not for complex pdf structure.
 
 - We can use this pyloader when u have text data in ur pdf file.
+
+**3. Directory Loader**
+
+- It is help to load whole directory(floder) means if any floder we have multiple pdf , text then we can able to load whole floder using directory loader
